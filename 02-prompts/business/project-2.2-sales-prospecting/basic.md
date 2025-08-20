@@ -22,3 +22,4 @@ Certified Personal Trainer
 
 ✅ While functional, this email is generic and lacks personalization, audience targeting, or varied CTAs.
 
+
