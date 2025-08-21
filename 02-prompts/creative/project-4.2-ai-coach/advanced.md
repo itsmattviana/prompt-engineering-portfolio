@@ -133,4 +133,37 @@ Do you have a budget for ads (Meta/Google) or should we stick to 100% organic gr
 
 ### 📊 Market Graphs (ASCII/Markdown)
 **Channel Focus vs Effort/Return (example)**  
+Effort (E) vs Return (R) over 2 weeks  
+IG Reels EEEE RRRR  
+FB Groups EEE RR  
+Meta Ads EE RRR  
+LinkedIn EE R
 
+**KPI Table (to track weekly)**
+| Metric              | Week 1 | Week 2 | Target |
+|---------------------|:------:|:------:|:------:|
+| Followers Gained    |  200   |  250   |  300+  |
+| Leads Captured      |   15   |   25   |  30–50 |
+| Consultations Booked|    5   |    8   |  8–10  |
+| New Paying Clients  |    1   |    2   |  2–3   |
+
+> Proceed to **Growth Projection**?
+
+---
+
+### 📈 Growth Projection (Simple Chart)
+Projected Paying Clients (next 8 weeks)  
+Week: 1 2 3 4 5 6 7 8  
+Clients 1 2 3 4 5 6 7 8  
+_Assumption:_ keep output pace (content + ads + follow-ups) and improve close rate from 10% → 15% by week 6.
+
+> Proceed to **References**?
+
+---
+
+### 📚 References (APA)
+- Kotler, P., & Keller, K. L. (2016). *Marketing Management* (15th ed.). Pearson.  
+- Cialdini, R. B. (2006). *Influence: The Psychology of Persuasion*. Harper Business.  
+- Meta for Business. (2024). *Advertising Guide: Objectives, Audiences, Creatives*.  
+- HubSpot. (2024). *Social Media Benchmarks Report*.  
+- Statista. (2025). *Fitness app usage and digital fitness trends in Europe*.
